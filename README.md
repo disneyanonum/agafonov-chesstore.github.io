@@ -1,2 +1,0 @@
-# agafonovchess
-Agafonov Coach Chess
